@@ -7,7 +7,7 @@ Welcome to my submission for Task 2 of the Data Science Internship at `Prodigy I
 
 ## Dataset
 
-The dataset used for this task is <a href="https://github.com/Prodigy-InfoTech/data-science-datasets/blob/main/Task%202/test.csv">Titanic_dataset</a>.
+The dataset used for this task is <a href="https://github.com/Prodigy-InfoTech/data-science-datasets/blob/main/Task%202/test.csv">Dataset</a>.
 
 ## Tools and Libraries used
 
